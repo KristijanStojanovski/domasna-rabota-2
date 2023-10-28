@@ -1,0 +1,7 @@
+header {background-color:red; padding: 0.1em; text-align: center;margin-bottom: 150px;}
+body{background-color: blue;background-image: url(pizza1.png);background-position: bottom right;background-repeat: no-repeat;background-attachment: fixed;background-size: 300px;}
+table{background-color: white;border-width: 1em;margin-left: auto;margin-right: auto;}
+td{font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif}
+th{font-family:'Courier New', Courier, monospace}
+label{font-style: italic;}
+select{background-color: lightgray;}
